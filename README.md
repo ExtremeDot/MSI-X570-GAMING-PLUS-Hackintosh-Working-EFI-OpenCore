@@ -9,3 +9,4 @@ I just collected files and tuned to work
 Tested on BigSure 11.7.2 using Bootable Installer Disk from MacOS
 
 
+See My Wiki Page to Steps
