@@ -5,4 +5,4 @@ my Custom Icons
 
 
 
-[How to change Icon and Names? ](https://github.com/ExtremeDot/MSI-X570-GAMING-PLUS-Hackintosh-Working-EFI-OpenCore/wiki/How-to-Edit-OpenCore-Boot-Menu-Entries%3F-%5B-Os-Name,-Icon-and-Visibility%5D)
+[EFI - OpenCore : How to change Icon and Names? See my Wiki ](https://github.com/ExtremeDot/MSI-X570-GAMING-PLUS-Hackintosh-Working-EFI-OpenCore/wiki/How-to-Edit-OpenCore-Boot-Menu-Entries%3F-%5B-Os-Name,-Icon-and-Visibility%5D)
